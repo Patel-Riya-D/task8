@@ -46,6 +46,7 @@ In this project, we used PCA to:
 📌 PCA makes it easier to **see patterns and clusters** by projecting the data into 2 main components.
 
 
+![image](https://github.com/user-attachments/assets/a362cb0e-bd1f-4c90-8de3-f2c20902892b)
 
 
 ---
