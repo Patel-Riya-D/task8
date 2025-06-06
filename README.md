@@ -33,7 +33,6 @@ K-Means is an **unsupervised machine learning algorithm** that groups data into 
 - Evaluated results using **Silhouette Score**
 
 ---
-## 🎨 PCA for 2D Visualization :
 
 ## 🔄 What is PCA?
 
@@ -44,10 +43,6 @@ In this project, we used PCA to:
 - Help visualize **clusters clearly** on a 2D plot
 
 📌 PCA makes it easier to **see patterns and clusters** by projecting the data into 2 main components.
-
-
-![image](https://github.com/user-attachments/assets/a362cb0e-bd1f-4c90-8de3-f2c20902892b)
-
 
 ---
 
