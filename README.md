@@ -33,12 +33,31 @@ K-Means is an **unsupervised machine learning algorithm** that groups data into 
 - Evaluated results using **Silhouette Score**
 
 ---
+## 🎨 PCA for 2D Visualization :
+
+## 🔄 What is PCA?
+
+**Principal Component Analysis (PCA)** is a technique used to **reduce the number of features** while preserving as much **variation (information)** in the data as possible.
+
+In this project, we used PCA to:
+- Convert high-dimensional data into **2D for visualization**
+- Help visualize **clusters clearly** on a 2D plot
+
+📌 PCA makes it easier to **see patterns and clusters** by projecting the data into 2 main components.
+
+
+
+
+---
 
 ## 📉 Elbow Method :
 
 The Elbow Plot showed that **K = 4 or 5** is optimal, where inertia (within-cluster distance) drops significantly and then levels off.
 
 📌 _This means adding more clusters beyond this point doesn’t improve clustering much._
+
+![image](https://github.com/user-attachments/assets/ccefe6dd-2642-4b75-83f1-f84c5ab2ae4a)
+
 
 ---
 
@@ -60,7 +79,7 @@ PCA-based 2D visualization showed **visibly separated groups**, indicating meani
 
 ## 📊 Silhouette Scores for Different K
 
-To determine the best number of clusters, we computed Silhouette Scores for different values of K:
+To determine the best number of clusters, I computed Silhouette Scores for different values of K:
 
 | K (Clusters) | Silhouette Score |
 |--------------|------------------|
