@@ -63,6 +63,9 @@ PCA-based 2D visualization showed **visibly separated groups**, indicating meani
 
 📌 _Color-coded clusters make it easy to understand customer groups visually._
 
+
+![image](https://github.com/user-attachments/assets/58bd5d90-12b6-4551-a8a6-859e0a5e7892)
+
 ---
 
 ## 📈 Silhouette Score: `0.406`
