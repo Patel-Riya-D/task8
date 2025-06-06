@@ -68,11 +68,14 @@ PCA-based 2D visualization showed **visibly separated groups**, indicating meani
 
 ---
 
-## 📈 Silhouette Score: `0.406`
+## 📈 Silhouette Score: `0.405`
 
 - **What it means**: Moderate clustering quality
 - ✅ Clusters have some separation
 - 🔁 Could be improved with feature scaling or different K
+
+
+![image](https://github.com/user-attachments/assets/aac84c8e-9557-481e-9057-5658d81356d7)
 
 ---
 
@@ -106,5 +109,4 @@ To determine the best number of clusters, I computed Silhouette Scores for diffe
 
 ---
 
-## 📂 Repository Structure
 
